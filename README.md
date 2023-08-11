@@ -6,8 +6,8 @@
 
 <h3 align='left'>About Me:</h3>
 <p align="left">I am a Third Year Computer Engineering student at Pune Institute of Computer Technology. I have a 
-    keen interest in Comprtitive Programming and Web Development. I am also interested in Data Science and Android Development.
-    I am currently learning Flutter and Dart. I like playing badminton.
+    keen interest in Comprtitive Programming and Web Development. I am also interested in Data Science and Machine Learning.
+    I love playing badminton.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
