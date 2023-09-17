@@ -5,8 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <h3 align='left'>About Me:</h3>
-<p align="left">I am a Third Year Computer Engineering student at Pune Institute of Computer Technology. I have a 
-    keen interest in Comprtitive Programming and Web Development. I am also interested in Data Science and Machine Learning.
+<p align="left"> I'm a passionate final year Computer Engineering student at Pune Institute of Computer Technology. I have a 
+    keen interest in Competitive Programming and Web Development. I am also interested in Data Science and Machine Learning.
     I love playing badminton.
 </p>
 <h3 align="left">Connect with me:</h3>
